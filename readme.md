@@ -15,4 +15,4 @@ To participate in this workshop, you will need:
 
 
 ### Space for conflict
-Did you know that you can use `git blame` to find out who last modified each line of a file? This can be helpful for understanding the history and context of specific lines in your codebase. Just run `git blame <file>` to see the commit hash and author for each line.
+Did you know that you can use `git blame` to find out who last modified each line of a file? Just run `git blame <file>` to see the commit hash and author for each line.
